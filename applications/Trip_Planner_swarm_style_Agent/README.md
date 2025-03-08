@@ -2,7 +2,7 @@
 
 A sophisticated travel planning assistant powered by multi-agent collaboration and vector search capabilities. This project demonstrates the power of specialized AI agents working together to provide comprehensive travel planning assistance.
 
-![img](../../assets/trip_planner_agent.)
+![img](../../assets/trip_planner_agent.png)
 
 ## ✨ Key Features
 
