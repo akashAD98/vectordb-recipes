@@ -81,6 +81,11 @@ swarm_style_planner/
 └── README.md          # Project documentation
 ```
 
+## Try collab 
+
+<a href="https://colab.research.google.com/github/lancedb/vectordb-recipes/blob/main/applications/Trip_Planner_swarm_style_Agent/Trip_planner_swarm_style.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+
+
 ## 📦 Dependencies
 
 - streamlit
