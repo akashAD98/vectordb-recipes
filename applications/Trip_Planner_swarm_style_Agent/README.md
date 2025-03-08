@@ -93,13 +93,3 @@ swarm_style_planner/
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- Built with Streamlit and LangGraph
-- Uses LanceDB for vector search capabilities
-- Powered by sentence-transformers for embeddings
