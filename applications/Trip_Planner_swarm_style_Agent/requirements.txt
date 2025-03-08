@@ -1,0 +1,9 @@
+streamlit>=1.32.0
+lancedb>=0.5.3
+sentence-transformers>=2.5.1
+pydantic>=2.6.3
+langgraph>=0.0.19
+torch>=2.2.0
+redis>=5.0.1
+python-dotenv>=1.0.1
+uuid>=1.30 
