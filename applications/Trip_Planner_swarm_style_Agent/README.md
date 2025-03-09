@@ -2,48 +2,14 @@
 
 A sophisticated travel planning assistant powered by multi-agent collaboration and vector search capabilities. This project demonstrates the power of specialized AI agents working together to provide comprehensive travel planning assistance.
 
+![img](../../assets/trip_planner_agent.png)
+
 ## ✨ Key Features
 
 - 🚀 **Multi-Agent Collaboration** – Specialized agents work together, seamlessly passing context to one another
 - 🔧 **Customizable Handoff Tools** – Built-in mechanisms for smooth communication between agents
 - 📂 **LanceDB for Data Retrieval** – High-performance vector search and full-text search for accurate and fast information retrieval
 - 🌍 **Travel Agent Use Case** – Agents collaborate to handle different aspects of travel planning, ensuring efficient and context-aware responses
-
-## 🛠 Prerequisites
-
-- Python 3.10 or higher
-- pip (Python package installer)
-- Virtual environment tool (venv, conda, etc.)
-
-## 🚀 Getting Started
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/swarm_style_planner.git
-   cd swarm_style_planner
-   ```
-
-2. **Set up a virtual environment**
-   ```bash
-   # Using venv
-   python -m venv venv
-   
-   # Activate the virtual environment
-   # On Windows
-   venv\Scripts\activate
-   # On macOS/Linux
-   source venv/bin/activate
-   ```
-
-3. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Run the application**
-   ```bash
-   streamlit run app.py
-   ```
 
 ## 💡 How It Works
 
@@ -70,36 +36,9 @@ Example queries:
 - "I need a hotel in Paris near the Eiffel Tower"
 - "Plan a week-long trip to Tokyo with flights and hotels"
 
-## 🏗 Project Structure
+## 🧪 Try in Google Colab
 
-```
-swarm_style_planner/
-├── app.py              # Main Streamlit application
-├── models.py           # Data models for flights and hotels
-├── travel_agent_swarm/ # Core swarm logic and agent definitions
-├── requirements.txt    # Project dependencies
-└── README.md          # Project documentation
-```
+Experience the Swarm Style Travel Planner directly on Google Colab:
 
-## 📦 Dependencies
+<a href="https://colab.research.google.com/github/lancedb/vectordb-recipes/blob/main/applications/Trip_Planner_swarm_style_Agent/Trip_planner_swarm_style.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 
-- streamlit
-- lancedb
-- sentence-transformers
-- pydantic
-- langgraph
-- torch
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- Built with Streamlit and LangGraph
-- Uses LanceDB for vector search capabilities
-- Powered by sentence-transformers for embeddings
