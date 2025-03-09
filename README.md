@@ -43,6 +43,8 @@ Stay up to date with the latest projects, tools, and improvements added to the r
 - Comparing **Deepseek's r1 VS OpenAI's o1** for RAG - [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](./examples/Deepseek_R1_VS_GPT_4o/README.md)
 - Testing **Deepseek Janus-Pro's** multimodality over Flickr 30K - 
 <a href="https://colab.research.google.com/github/lancedb/vectordb-recipes/blob/main/examples/Janus-Pro/Janus_Pro.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+- Building **Swarm Style Agent** for trip planner usecase  - 
+<a href="https://colab.research.google.com/github/lancedb/vectordb-recipes/blob/main/examples/Trip_planner_agent.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 
 ### Build from Scratch
 
@@ -153,6 +155,7 @@ Build applications where multiple AI agents interact to complete tasks efficient
 | AI Agents &nbsp; &nbsp;| Interactive Notebook & Scripts &nbsp; | Blog |
 | --------- | -------------------------- | ----------- |
 ||||
+| [Trip Planner Swarm style Agent ](/examples/Trip_planner_swarm_style_agent/) |<a href="https://colab.research.google.com/github/lancedb/vectordb-recipes/blob/main/examples/Trip_planner_swarm_style_agent/Trip_planner_agent.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>  [![LLM](https://img.shields.io/badge/openai-api-white)](#)   [![intermediate](https://img.shields.io/badge/intermediate-FFDA33)](#)|
 | [Multi Source Agent  ](/examples/Multi-source-Agent/) |<a href="https://colab.research.google.com/github/lancedb/vectordb-recipes/blob/main/examples/Multi-source-Agent/Multi_source_RAG_Agent.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>  [![LLM](https://img.shields.io/badge/openai-api-white)](#)   [![beginner](https://img.shields.io/badge/beginner-B5FF33)](#)|
 | [AI email assistant with Composio](/examples/AI-Email-Assistant-with-Composio/) |<a href="https://colab.research.google.com/github/lancedb/vectordb-recipes/blob/main/examples/AI-Email-Assistant-with-Composio/composio-lance.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>  [![LLM](https://img.shields.io/badge/openai-api-white)](#)   [![beginner](https://img.shields.io/badge/beginner-B5FF33)](#)|
 | [Assitant Bot with OpenAI Swarm](./examples/assistance-bot-with-swarm/) |<a href="https://colab.research.google.com/github/lancedb/vectordb-recipes/blob/main/examples/assistance-bot-with-swarm/assitant_bot_with_swarm.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>  [![LLM](https://img.shields.io/badge/openai-api-white)](#)   [![intermediate](https://img.shields.io/badge/intermediate-FFDA33)](#)|
